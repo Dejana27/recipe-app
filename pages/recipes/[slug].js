@@ -12,7 +12,7 @@ export default function RecipeHomePage () {
 
     return (
         <section className="main-container-recipes">
-            <div>
+            <div className="">
                 <h1>Recipes</h1>
 
             </div>
